@@ -1,7 +1,5 @@
 title: Hello World!
-
 date: 2021-03-23
-
 author: yomi
 
 # I am On My Way To Internet Fame and Fortune!
