@@ -4,98 +4,98 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2021-08-15T22:37:53-00:00</lastmod>
+<loc>https://yomizzz.github.io/</loc>
+<lastmod>2021-08-15T22:54:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2021-08-15T22:37:53-00:00</lastmod>
+<loc>https://yomizzz.github.io/tags.html</loc>
+<lastmod>2021-08-15T22:54:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2021-08-15T22:37:53-00:00</lastmod>
+<loc>https://yomizzz.github.io/categories.html</loc>
+<lastmod>2021-08-15T22:54:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2021-08-15T22:37:53-00:00</lastmod>
+<loc>https://yomizzz.github.io/authors.html</loc>
+<lastmod>2021-08-15T22:54:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2021-08-15T22:37:53-00:00</lastmod>
+<loc>https://yomizzz.github.io/archives.html</loc>
+<lastmod>2021-08-15T22:54:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about.html</loc>
-<lastmod>2021-08-15T22:37:53-00:00</lastmod>
+<loc>https://yomizzz.github.io/pages/about.html</loc>
+<lastmod>2021-08-15T22:54:26-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>/how-to-pass-post-graduate-extrance-exam.html</loc>
+<loc>https://yomizzz.github.io/how-to-pass-post-graduate-extrance-exam.html</loc>
 <lastmod>2021-08-15T15:25:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/ru-he-yue-du-yi-pian-ke-xue-wen-xian.html</loc>
+<loc>https://yomizzz.github.io/ru-he-yue-du-yi-pian-ke-xue-wen-xian.html</loc>
 <lastmod>2021-08-15T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/hello-world.html</loc>
+<loc>https://yomizzz.github.io/hello-world.html</loc>
 <lastmod>2021-03-23T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/category/articles.html</loc>
+<loc>https://yomizzz.github.io/category/articles.html</loc>
 <lastmod>2021-08-15T15:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/fan-si.html</loc>
+<loc>https://yomizzz.github.io/tag/fan-si.html</loc>
 <lastmod>2021-08-15T15:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zhi-shi.html</loc>
+<loc>https://yomizzz.github.io/tag/zhi-shi.html</loc>
 <lastmod>2021-08-15T15:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/gong-ju.html</loc>
+<loc>https://yomizzz.github.io/tag/gong-ju.html</loc>
 <lastmod>2021-08-15T15:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/yomi.html</loc>
+<loc>https://yomizzz.github.io/author/yomi.html</loc>
 <lastmod>2021-08-15T15:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
