@@ -40,3 +40,19 @@ DEFAULT_CATEGORY = 'Articles'
 
 # DISPLAY_PAGES_ON_MENU = True
 # DISPLAY_CATEGORIES_ON_MENU = True
+PLUGIN_PATHS = ["/Users/yomi/Blog/pelican-plugins", ]
+PLUGINS = ["sitemap", ]
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.7,
+        "indexes": 0.5,
+        "pages": 0.3
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
