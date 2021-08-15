@@ -4,7 +4,7 @@
 AUTHOR = 'yomi'
 SITENAME = 'Yomi blog'
 SITESUBTITLE = 'A personal blog.'
-SITEURL = ''
+SITEURL = 'https://yomizzz.github.io'
 
 PATH = 'content'
 
