@@ -15,8 +15,8 @@ DEFAULT_LANG = 'cn'
 GITHUB_URL = 'https://github.com/yomizzz/'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -57,6 +57,6 @@ SITEMAP = {
     }
 }
 '''
-STATIC_PATHS = ['extra/robots.txt', 'extra/sitemap.xml', ]
-EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'}, 'extra/sitemap.xml': {'path': 'sitemap.xml'},}
+STATIC_PATHS = ['extra/robots.txt', 'extra/sitemap.xml', 'extra/favicon.ico', ]
+EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'}, 'extra/sitemap.xml': {'path': 'sitemap.xml'}, 'extra/favicon.ico': {'path': 'favicon.ico'}, }
 
