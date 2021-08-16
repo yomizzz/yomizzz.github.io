@@ -57,6 +57,6 @@ SITEMAP = {
     }
 }
 '''
-STATIC_PATHS = ['extra/robots.txt', ]
-EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},}
+STATIC_PATHS = ['extra/robots.txt', 'extra/sitemap.xml', ]
+EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'}, 'extra/sitemap.xml': {'path': 'sitemap.xml'},}
 
