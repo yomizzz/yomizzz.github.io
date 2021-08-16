@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /theme/
+Disallow: /.gif$
+Disallow: /.png$
+Disallow: /.jpg$
+Sitemap: https://yomizzz.github.io/sitemap.xml
