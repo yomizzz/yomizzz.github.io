@@ -40,9 +40,9 @@ DEFAULT_CATEGORY = 'Articles'
 
 # DISPLAY_PAGES_ON_MENU = True
 # DISPLAY_CATEGORIES_ON_MENU = True
-PLUGIN_PATHS = ["/Users/yomi/Blog/pelican-plugins", ]
-PLUGINS = ["sitemap", ]
-
+# PLUGIN_PATHS = ["/Users/yomi/Blog/pelican-plugins", ]
+# PLUGINS = ["sitemap", ]
+'''
 SITEMAP = {
     "format": "xml",
     "priorities": {
@@ -56,6 +56,7 @@ SITEMAP = {
         "pages": "monthly"
     }
 }
-
+'''
 STATIC_PATHS = ['extra/robots.txt', ]
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},}
+
